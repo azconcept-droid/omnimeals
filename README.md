@@ -1,5 +1,5 @@
 # Omnimeals website
 
-## still developing...
+## Making it Responsive...
 
 ![omnimeals ui](/omnimeals.PNG)
